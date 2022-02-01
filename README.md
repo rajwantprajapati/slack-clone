@@ -13,4 +13,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 
 ### `Firebase deployment link`
-Hosting URL: https://slack-clone-a4c01.web.app
+Hosting URL: https://slack-clone-a4c01.web.app/room/YC1mwblcrPTp8Ffjcg7o
